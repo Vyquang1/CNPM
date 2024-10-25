@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 13 Promax",
+    "price": 23000000,
+    "image": "https://cdn.tgdd.vn/Products/Images/42/230529/iphone-13-pro-max-xanh-la-thumb-600x600.jpg",
+    "category_id": 1
+  },
+   {
+    "id": 1,
+    "name": "Iphone 14 Promax",
+    "price": 23000000,
+    "image": "https://cdn.tgdd.vn/Products/Images/42/230529/iphone-13-pro-max-xanh-la-thumb-600x600.jpg",
+    "category_id": 1
+  },
+   {
+    "id": 1,
+    "name": "Iphone 15 Promax",
+    "price": 23000000,
+    "image": "https://cdn.tgdd.vn/Products/Images/42/230529/iphone-13-pro-max-xanh-la-thumb-600x600.jpg",
+    "category_id": 1
+  },
+   {
+    "id": 1,
+    "name": "Iphone 16 Promax",
+    "price": 23000000,
+    "image": "https://cdn.tgdd.vn/Products/Images/42/230529/iphone-13-pro-max-xanh-la-thumb-600x600.jpg",
+    "category_id": 1
+  }
+]
