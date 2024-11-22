@@ -28,7 +28,12 @@ def load_products(q=None, cate_id=None,page=None):
 
     return query.all()
 
+def count_product():
+    return Product.query.count()
 
+
+def auth_user(username,password):
+    pass
 
 def load_product_by_id(id):
     # with open('data/products.json', encoding='utf-8') as f:
